@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FujitsuPolycom
 - 👀 I’m interested in systems administration, infrastucture as code, cloud, scripting, automation, monitoring, all the things!
-- 🌱 I’m currently learning build, test, deploy. CI/CD
+- 🌱 I’m currently learning cloud, build, test, deploy, CI/CD, python.
 - 💞️ I’m looking to collaborate on scripting/automation projects, cloud learning, anything to get my feet wet.
 - 📫 How to reach me Twitter @dooner88 Insta @pccessna
 
