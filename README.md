@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @FujitsuPolycom
-- 👀 I’m interested in systems administration, infrastucture as code, cloud, scripting, automation, monitoring, all the things!
+- 👀 I’m interested in systems administration, infrastucture as code, cloud, scripting, automation, monitoring, coding all the things!
 - 🌱 I’m currently learning cloud, build, test, deploy, CI/CD, python.
-- 💞️ I’m looking to collaborate on scripting/automation projects, cloud learning, anything to get my feet wet.
-- 📫 How to reach me Twitter @dooner88 Insta @pccessna
+- 💞️ I’m looking to collaborate on scripting/automation projects, cloud learning, applications relevant to my interests, etc.
+- 📫 How to reach me: Twitter @dooner88 Insta @pccessna Reddit u/FujitsuPolycom
+
+This is a relatively new account for a fresh-start, of sorts. 
 
 <!---
 FujitsuPolycom/FujitsuPolycom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
